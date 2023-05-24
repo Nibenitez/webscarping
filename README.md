@@ -1,26 +1,27 @@
-# webscarping
-Implementando la técnica de obtención de datos Web Scraping y herramientas para explotarlos.
+# Web scraping
 
-Este proyecto tiene como objetivo utilizar técnica de webscraping para adquirir la habilidad de cómo usar datos disponibles en la web en otro formato. La página web utilizada en este proyecto está disponible en Wikipedia. https://en.wikipedia.org/wiki/List_of_countries_by_income_equality
+Implementing web scraping techique to retrieve data and tools to exploit it.
 
-Archivos incluidos:
+This project aims to utilize web scraping techniques to acquire the ability to use data available on the web in another format. The web page used in this project is available on Wikipedia: https://en.wikipedia.org/wiki/List_of_countries_by_income_equality
 
-WebScraping_wikipedia_Notebook.ipynb.ipynb: este es el cuaderno de Jupyter que contiene el código fuente utilizado para realizar webscraping.
+Included files:
 
-README.txt: este archivo.
+WebScraping_wikipedia_Notebook.ipynb: This is the Jupyter notebook that contains the source code used for web scraping.
 
-Instrucciones para ejecutar el proyecto:
+README.txt: This file.
 
-Descargar los archivos de este repositorio en su computadora.
+Instructions to run the project:
 
-Acceder a Google Colab en su navegador web y cargar el archivo WebScraping_wikipedia_Notebook.ipynb.
+Download the files from this repository to your computer.
 
-En Google Colab, asegurarse de tener acceso a las bibliotecas necesarias de Python, como Pandas, NumPy, Seaborn y Matplotlib. Si no las tiene, puede instalarlas utilizando el siguiente comando: !pip install [nombre de la biblioteca].
+Access Google Colab or JupyterLab in your web browser and upload the file WebScraping_wikipedia_Notebook.ipynb.
 
-Seguir las instrucciones detalladas en el cuaderno de Jupyter para realizar webscraping y posterior explotación de datos obtenidos.
+In your environment, make sure you have access to the necessary Python libraries, such as Pandas, NumPy, Seaborn, and Matplotlib. If you don't have them, you can install them using the following command: !pip install [library name].
 
-Créditos:
+Follow the detailed instructions in the Jupyter notebook to perform web scraping and subsequent data analysis.
 
-La página web usada en este proyecto fue tomada desde Wikipedia: https://en.wikipedia.org/wiki/List_of_countries_by_income_equality
+Credits:
 
-Autores: Xiang Liu - Nerea Martinez - Elisenda Rahola - Natalia Benitez
+The web page used in this project was taken from Wikipedia: https://en.wikipedia.org/wiki/List_of_countries_by_income_equality
+
+Authors: Xiang Liu - Nerea Martinez - Elisenda Rahola - Natalia Benitez
